@@ -126,7 +126,6 @@
     <ClInclude Include="inventory.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="inventory.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
